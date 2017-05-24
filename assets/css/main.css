@@ -1,0 +1,63 @@
+body{
+	font-family: "Open Sans", sans-serif;
+}
+.item{
+	padding:10px;
+}
+.yellow{
+	background:yellow;
+}
+.pink{
+	background:pink;
+}
+
+#index1 p{
+	display:block;
+	margin:0;
+	height:40px;
+}
+#index1 .pink{
+	border:1px solid black;
+}
+#index2 p{
+	display:block;
+	width:200px;
+	height:50px;
+}
+#index3 p{
+	display:inline-block;
+	margin:3px;
+}
+
+#index4 p{
+	display:inline-block;
+	margin:1px;
+	width:200px;
+	height:50px;
+}
+
+.caja{
+	width:100px;
+	height:100px;
+	background-color: #d3d3d3;
+	border:1.5px solid grey;
+	margin-bottom:20px;
+}
+.vertical{
+	display:block;
+}
+.horizontal{
+	display:block;
+	width:350px;
+	padding:20px;
+}
+.sub{
+	display:inline-block;
+	margin:0 5px;
+}
+.esp{
+	display:inline-block;
+}
+.lateral{
+	margin-left:10px;
+}
